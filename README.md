@@ -5,7 +5,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickolayKu&layout=compact&langs_count=7&theme=default&count_private=true"/>
   </a>
 </div>
-<br />
+
 ### CURRENT WORK:
 Working as a Sr. Backend Developer at <b>Huriky Studio</b>.
 <br />
