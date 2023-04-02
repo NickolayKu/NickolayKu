@@ -1,7 +1,7 @@
 ### A FEW STATS:
 <div>
   <a href="https://github.com/marcelino-borges">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NickolayKu&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide=prs,issues,contribs"/>   
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NickolayKu&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>   
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickolayKu&layout=compact&langs_count=7&theme=default&count_private=true"/>
   </a>
 </div>
