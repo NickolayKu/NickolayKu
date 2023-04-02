@@ -6,10 +6,8 @@
   </a>
 </div>
 <br />
-
 ### CURRENT WORK:
 Working as a Sr. Backend Developer at <b>Huriky Studio</b>.
-<br />
 <br />
   
 ### LANGUAGES I HAVE WORKED WITH:
