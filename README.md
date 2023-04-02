@@ -31,8 +31,7 @@ Working as a Sr. Backend Developer at <b>Huriky Studio</b>.
   <li>Firebase</li>
   <li>PostgreSQL</li>
   <li>Redis</li>
-</ul>  
-<br />
+</ul>
  
 ### HOW YOU CAN REACH ME:
 <div>
