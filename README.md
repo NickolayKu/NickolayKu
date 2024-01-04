@@ -7,7 +7,7 @@
 </div>
 
 ### CURRENT WORK:
-Working as a Sr. Backend Developer at <b>Huriky Studio</b>.
+Working as a Sr. Fullstack Developer at <b>Huriky Studio</b>.
 <br />
   
 ### LANGUAGES I HAVE WORKED WITH:
@@ -23,6 +23,7 @@ Working as a Sr. Backend Developer at <b>Huriky Studio</b>.
   <li>ReactJS</li>
   <li>NodeJS</li>
   <li>ExpressJS</li>
+  <li>React Native</li>
 </ul>  
   
 ### DATABASES I HAVE WORKED WITH:
