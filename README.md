@@ -1,29 +1,24 @@
-### A FEW STATS:
-<div>
-  <a href="https://github.com/marcelino-borges">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NickolayKu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>   
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickolayKu&layout=compact&langs_count=7&theme=dark&count_private=true"/>
-  </a>
-</div>
-
 ### CURRENT WORK:
-Working as a Sr. Fullstack Developer at <b>Huriky Studio</b>.
+Working as a Fullstack JavaScript Developer at <b>Huriky Studio</b>.
 <br />
   
 ### LANGUAGES I HAVE WORKED WITH:
 <ul>
   <li>TypeScript</li>
   <li>JavaScript</li>
+  <li>Python</li>
+  <li>Java</li>
   <li>PHP</li>
-  <li>SQL</li>
 </ul>  
   
 ### FRAMEWORKS I HAVE WORKED WITH:
 <ul>
   <li>ReactJS</li>
   <li>NodeJS</li>
+  <li>Django</li>
+  <li>NextJS</li>
   <li>ExpressJS</li>
-  <li>React Native</li>
+  <li>ReactNative</li>
 </ul>  
   
 ### DATABASES I HAVE WORKED WITH:
@@ -32,6 +27,8 @@ Working as a Sr. Fullstack Developer at <b>Huriky Studio</b>.
   <li>Firebase</li>
   <li>PostgreSQL</li>
   <li>Redis</li>
+  <li>MySQL</li>
+  <li>SQLite</li>
 </ul>
  
 ### HOW YOU CAN REACH ME:
