@@ -1,5 +1,5 @@
 ### CURRENT WORK:
-Working as a Fullstack JavaScript Developer at <b>Huriky Studio</b>.
+None
 <br />
   
 ### LANGUAGES I HAVE WORKED WITH:
