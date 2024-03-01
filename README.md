@@ -1,7 +1,3 @@
-### CURRENT WORK:
-None
-<br />
-  
 ### LANGUAGES I HAVE WORKED WITH:
 <ul>
   <li>TypeScript</li>
