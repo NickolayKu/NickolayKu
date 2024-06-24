@@ -9,11 +9,11 @@
   
 ### FRAMEWORKS I HAVE WORKED WITH:
 <ul>
-  <li>ReactJS</li>
-  <li>NodeJS</li>
+  <li>React</li>
+  <li>Node</li>
   <li>Django</li>
-  <li>NextJS</li>
-  <li>ExpressJS</li>
+  <li>Next</li>
+  <li>Express</li>
   <li>ReactNative</li>
 </ul>  
   
