@@ -15,6 +15,7 @@
   <li>Next</li>
   <li>Express</li>
   <li>ReactNative</li>
+  <li>Pixi</li>
 </ul>  
   
 ### DATABASES I HAVE WORKED WITH:
