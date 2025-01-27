@@ -2,7 +2,6 @@
 <ul>
   <li>TypeScript</li>
   <li>JavaScript</li>
-  <li>Python</li>
   <li>Java</li>
   <li>PHP</li>
 </ul>  
@@ -11,11 +10,10 @@
 <ul>
   <li>React</li>
   <li>Node</li>
-  <li>Django</li>
+  <li>Nest</li>
   <li>Next</li>
   <li>Express</li>
   <li>ReactNative</li>
-  <li>Pixi</li>
 </ul>  
   
 ### DATABASES I HAVE WORKED WITH:
